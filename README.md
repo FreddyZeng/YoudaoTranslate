@@ -28,8 +28,6 @@ macOS Monterey 请使用 V3 版本！
 - 🔮 [**网页预览**](screenshots/screenshot_4.gif) - 翻译结果上按 `⇧ Shift` 直接预览有道网页
 - 🚧 [**自动更新**](screenshots/update.png) - 输入 `update` 检查更新 Workflow
 
-[![Powered by DartNode](https://dartnode.com/branding/DN-Open-Source-sm.png)](https://dartnode.com "Powered by DartNode - Free VPS for Open Source")
-
 ## 🚀 开始使用
 
 🌚  遇到问题不要怕，扫码加群来解答，[**点击扫码**](screenshots/wechat-group.png)
